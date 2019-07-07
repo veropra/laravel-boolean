@@ -1,12 +1,13 @@
 footer{
   background-color: #fff;
+  margin-top: 350px;
 
   .row{
     height: 150px;
   }
 
   .col-lg-auto{
-    margin-right: 80px;
+    margin-right: 70px;
   }
 
   img{
@@ -22,6 +23,7 @@ footer{
   }
 
   #footer-menu{
+
     a{
       display: block;
       color: #1b3c59;
@@ -38,11 +40,13 @@ footer{
     height: 100px;
 
     .left{
+      font-size: 15px;
       float: left;
-      margin-right: 155px;
+      margin-right: 40px;
       padding: 30px;
     }
     .right{
+      font-size: 15px;
       padding: 30px;
     }
   }
