@@ -11141,7 +11141,7 @@ header nav .btn-warning:hover {
 
 footer {
   background-color: #fff;
-  margin-top: 350px;
+  margin-top: 400px;
 }
 
 footer .row {
@@ -11189,12 +11189,49 @@ footer .footer-bottom .right {
   padding: 30px;
 }
 
+.home_sviluppatore {
+  width: 707px;
+}
+
+.home_sviluppatore .home_left {
+  height: 20px;
+}
+
+.home_left {
+  margin-left: 60px;
+}
+
+.home_left h1 {
+  color: #61ce4e;
+}
+
+.home_left .btn-warning {
+  background-color: #f47637;
+  border: none;
+  margin-top: inherit;
+  width: 150px;
+  height: 40px;
+  border-radius: 3px;
+}
+
+.home_left .btn-warning:hover {
+  background-color: #f5874f;
+  border: none;
+}
+
+.home_right {
+  float: right;
+}
+
+img {
+  margin-left: 135px;
+  max-width: 550px;
+}
+
 body {
-  margin-top: 100px;
+  margin: 100px 70px;
   box-sizing: border-box;
   color: #1b3c59;
-  margin-left: 70px;
-  margin-right: 70px;
 }
 
 #main-content {

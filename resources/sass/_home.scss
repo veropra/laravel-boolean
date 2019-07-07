@@ -1,0 +1,38 @@
+.home_sviluppatore{
+  width: 707px;
+  
+  .home_left{
+    height: 20px;
+  }
+}
+
+.home_left{
+  margin-left: 60px;
+
+  h1{
+    color: #61ce4e;
+  }
+
+  .btn-warning{
+    background-color: #f47637;
+    border: none;
+    margin-top: inherit;
+    width: 150px;
+    height: 40px;
+    border-radius: 3px;
+  }
+
+  .btn-warning:hover{
+    background-color: #f5874f;
+    border: none;
+  }
+}
+
+.home_right{
+  float: right;
+}
+
+img{
+  margin-left: 135px;
+  max-width: 550px;
+}
