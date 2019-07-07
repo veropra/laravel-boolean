@@ -1,0 +1,49 @@
+footer{
+  background-color: #fff;
+
+  .row{
+    height: 150px;
+  }
+
+  .col-lg-auto{
+    margin-right: 80px;
+  }
+
+  img{
+    max-width: 300px;
+    margin-left: 70px;
+  }
+
+  #footer-contact{
+    a{
+      display: block;
+      color: #1b3c59;
+    }
+  }
+
+  #footer-menu{
+    a{
+      display: block;
+      color: #1b3c59;
+    }
+
+    .fa-facebook-square{
+      color: #1b3c59;
+    }
+  }
+
+  .footer-bottom{
+    background-color: #1b3c59;
+    color: #fff;
+    height: 100px;
+
+    .left{
+      float: left;
+      margin-right: 155px;
+      padding: 30px;
+    }
+    .right{
+      padding: 30px;
+    }
+  }
+}
